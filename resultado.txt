@@ -1,0 +1,67 @@
+Resultados del Ping:
+====================
+
+Host: google.com
+
+Haciendo ping a google.com [142.251.129.174] con 32 bytes de datos:
+Respuesta desde 142.251.129.174: bytes=32 tiempo=25ms TTL=115
+Respuesta desde 142.251.129.174: bytes=32 tiempo=25ms TTL=115
+Respuesta desde 142.251.129.174: bytes=32 tiempo=25ms TTL=115
+Respuesta desde 142.251.129.174: bytes=32 tiempo=26ms TTL=115
+
+Estad¡sticas de ping para 142.251.129.174:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 25ms, M ximo = 26ms, Media = 25ms
+Tiempo total del ping: 3.09 segundos
+========================================
+
+Host: 8.8.8.8
+
+Haciendo ping a 8.8.8.8 con 32 bytes de datos:
+Respuesta desde 8.8.8.8: bytes=32 tiempo=22ms TTL=117
+Respuesta desde 8.8.8.8: bytes=32 tiempo=22ms TTL=117
+Respuesta desde 8.8.8.8: bytes=32 tiempo=22ms TTL=117
+Respuesta desde 8.8.8.8: bytes=32 tiempo=22ms TTL=117
+
+Estad¡sticas de ping para 8.8.8.8:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 22ms, M ximo = 22ms, Media = 22ms
+Tiempo total del ping: 3.07 segundos
+========================================
+
+Host: cloudflare.com
+
+Haciendo ping a cloudflare.com [104.16.133.229] con 32 bytes de datos:
+Respuesta desde 104.16.133.229: bytes=32 tiempo=29ms TTL=47
+Respuesta desde 104.16.133.229: bytes=32 tiempo=29ms TTL=47
+Respuesta desde 104.16.133.229: bytes=32 tiempo=29ms TTL=47
+Respuesta desde 104.16.133.229: bytes=32 tiempo=29ms TTL=47
+
+Estad¡sticas de ping para 104.16.133.229:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 29ms, M ximo = 29ms, Media = 29ms
+Tiempo total del ping: 3.13 segundos
+========================================
+
+Host: 1.1.1.1
+
+Haciendo ping a 1.1.1.1 con 32 bytes de datos:
+Respuesta desde 1.1.1.1: bytes=32 tiempo=29ms TTL=47
+Respuesta desde 1.1.1.1: bytes=32 tiempo=29ms TTL=47
+Respuesta desde 1.1.1.1: bytes=32 tiempo=29ms TTL=47
+Respuesta desde 1.1.1.1: bytes=32 tiempo=29ms TTL=47
+
+Estad¡sticas de ping para 1.1.1.1:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 29ms, M ximo = 29ms, Media = 29ms
+Tiempo total del ping: 3.07 segundos
+========================================
+
